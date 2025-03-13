@@ -1,1 +1,6 @@
-This project aims to reduce the student drop out rate by using ML models to predict dstudent at risk of dropping and assisting with their needs.It also aims to make education easier
+ This problem statement outlines a comprehensive strategy to address student dropout rates in India through by utilizing machine learning and artificial intelligence algorithms in an app
+To predict student at risk of dropping and providing them with needed assistance through an app inspired and guided through NEP 2020 guideline
+AI-Driven Early Warning System
+ ➢ Blockchain analysis
+ ➢ Parental engagement portal
+ ➢ Gamified Real-World Problem Solving Challenges
